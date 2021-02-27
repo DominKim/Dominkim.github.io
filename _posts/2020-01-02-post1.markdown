@@ -8,6 +8,6 @@ category: sample
 > Hello!
 
 This is code
-```ruby
+``` sql
 print 'hello world'
 ```
