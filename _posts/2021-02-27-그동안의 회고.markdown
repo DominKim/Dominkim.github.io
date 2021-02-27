@@ -2,7 +2,7 @@
 layout: post
 title: 그동안의 회고
 date: 2021-02-27 13:45:23 +0900
-category: Jekyll
+category: Diary
 ---
 # post-sample
 > 데이터 분석가가 되기 위해 노력한 1년 동안의 회고
