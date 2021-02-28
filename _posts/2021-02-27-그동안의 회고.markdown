@@ -4,6 +4,18 @@ title: 그동안의 회고
 date: 2021-02-27 13:45:23 +0900
 category: Diary
 ---
-# post-sample
-> 데이터 분석가가 되기 위해 노력한 1년 동안의 회고
+# 데이터 분석가가 되기 위해 노력한 1년 동안의 회고
 
+## 대학원 생활
+- 유럽 프로축구팀 경기력의 군집분석, **Do Min Kim**, Hyongjun Choi, Dankook Univ, 2020. [[paper](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=9aba5683f3f30388ffe0bdc3ef48d419)]
+- 잉글랜드 프리미어리그 공식기록으 통한 경기력의 군집분석, **Do Min Kim**, Hyongjun Choi, 한국체육과학회, 2019. [[paper](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=a24b63d5221419beb7998d826d417196)]
+- 2019 한국축구과학회 컨퍼런스 SPIK 젊은 연구자상 발표 : 축구기록의 군집화를 통한 경기분석 
+
+대학원의 생활은 데이터 분석가라는 직무를 정하고 도전하게 된 중요한계기가 되었다.
+
+
+## 대학원 졸업 후 1년동안의 회고(2020. 2 ~)
+- 파이썬과 R을 활용한 빅데이터 플랫폼 전문가 양성과정(국비교육) (2020.02.19 ~ 2020.07.22)
+  국비교육을 통해 SQL을 처음 배울수 있었고 교육과정을 통해 배운 머신러닝 기법들을 활용한 프로젝트들을 통해 통계기법 뿐만이 아닌 머신러닝 기법까지 활용한 프로젝트 수행 역량도
+  기를 수 있었다.
+- [재무비율에 근거한 주식 종목 비교 방법론 연구](https://github.com/DominKim/Final_project)
